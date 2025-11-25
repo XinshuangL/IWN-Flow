@@ -1,6 +1,6 @@
 # IWN-Flow: Importance-Weighted Non-IID Sampling for Flow Matching Models
 
-[Homepage](https://XinshuangL.github.io/IWN-Flow) | [Paper](https://arxiv.org/pdf/2511.17812)
+[Homepage](https://XinshuangL.github.io/IWN-Flow) | [Paper](https://arxiv.org/abs/2511.17812)
 
 Official implementation of the paper "Importance-Weighted Non-IID Sampling for Flow Matching Models."
 
